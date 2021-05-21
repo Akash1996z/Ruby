@@ -1,1 +1,2 @@
 # Ruby
+Basics understanding
